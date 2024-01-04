@@ -1,4 +1,4 @@
-# co569405fbb0ff1871cbe6b97
+**Lap Counter created whilst completung the Scrimba Learn Javascript course**
 
 Quick start:
 
