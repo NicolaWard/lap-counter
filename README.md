@@ -1,4 +1,6 @@
-**Lap Counter created whilst completung the Scrimba Learn Javascript course**
+**Lap Counter
+Lap counter created as a solo practice project whilst completing the Scrimba Javascript course. You can see the counter deployed on the web here: 
+[https://rococo-lokum-9fb351.netlify.app/](https://dazzling-bunny-a7b2bd.netlify.app)
 
 Quick start:
 
